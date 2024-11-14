@@ -1,0 +1,30 @@
+{
+    "name": "arcade-games",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "Album_1.md",
+        "Album_2.md",
+        "Album_3.md",
+        "Album_4.md",
+        "Album_5.md",
+        "Album_6.md",
+        "Album_7.md",
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
